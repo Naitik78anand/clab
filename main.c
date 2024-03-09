@@ -14,7 +14,7 @@ int main(void) {
       {
         if(copy1%10<copy2%10)
         {
-          number3 +=copy1%10*digit;
+          number3 += copy1%10*digit;
           number4 += copy2%10*digit;
             
         }
