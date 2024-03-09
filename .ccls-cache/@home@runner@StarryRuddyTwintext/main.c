@@ -4,7 +4,7 @@ int main(void) {
   int number1,number2,copy1,copy2,number3=0,number4=0,digit=1;
   printf("enter the number1: ");
   scanf("%d",&number1);
-  printf("enter the number2: ");
+  printf("enter the number2:");
   scanf("%d",&number2);
   copy1 = number1;
   copy2 = number2;
